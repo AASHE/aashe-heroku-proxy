@@ -1,0 +1,8 @@
+{
+  "name": "AASHE Proxy",
+  "description": "A load balancer for proxying AASHE microsites",
+  "image": "heroku/ruby",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
